@@ -1,0 +1,29 @@
+.product-page-transition {
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: min-content;
+
+    border: 1px solid;
+    /* border-radius: 24px; */
+
+    .__page {
+        width: 28px;
+        text-align: center;
+        font-weight: 700;
+        font-size: larger;
+    }
+
+    button {
+        font-size: medium;
+        font-weight: 400;
+        color: var(--button-color);
+    }
+
+    button:hover {
+        opacity: 0.7;
+    }
+}
