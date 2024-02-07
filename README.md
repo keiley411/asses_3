@@ -6,7 +6,7 @@
 
 
 ### Version
-26/01/2024
+7/02/2024
 ## Description
 This is an eccomerce website whereby when you click on a product in routes on another page and also has a toggle button that changes from dark to light.
 ## Live Page 
